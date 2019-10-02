@@ -1,0 +1,29 @@
+Un fantome inspecteur :
+
+But du jeu :
+Ramenez la présence de mauvais fantome à 0% 
+Game over : Atteindre 66,6% ou plus de mauvais fatome dans la maison.
+
+Nombre X de fantome au démarage dont 10-25% sont mauvais au début.
+Le fantome inspecteur doit se déplacer pour :
+étape 1 : parler à un fantome
+étape 2 : interpreter où fouiller pour découvrir le souvenir du fantome
+étape 3 : déterminer grâce au souvenir si le fantome est bon ou mauvais
+étape 4 : exclure le fantome si besoin
+
+Mecanique hors scope joueur :
+Interraction entre fantome, possibilité que des mauvais fantome mettent dehors de bon fantome. => accussation pour lancer un vote d'exclusion ?
+Les fatomes votent toutes les X minutes pour la sortie d'un fantome ? 
+Les fantomes peuvent s'accuser mutuellement. (voir les deux sont méchants mais mettent en doute le joueur par des accusation transverses)
+
+Periodicité d'apparation assez courte >=1min ?
+
+Si exclusion d'un bon fantome malus : 
+- vitesse de déplacement
+- double fantome à la prochaine apparition 
+- reduire le temps d'apparition de X secondes pendant 5 min
+- en faute cumulatif allongé le temps ?
+
+
+Génération procédural des fantômes 
+Interraction entre fantomes (passé commun meutrier/vicitimes)
