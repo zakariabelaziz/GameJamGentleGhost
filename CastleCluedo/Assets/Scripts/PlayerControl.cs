@@ -7,7 +7,8 @@ public class PlayerControl : MonoBehaviour
 
     public GameObject _player_game_object;
     private Random _mRandom;
-    float speed = 4.0f;
+    public float speed = 4.0f;
+    
 
     // Start is called before the first frame update
     void Start()
